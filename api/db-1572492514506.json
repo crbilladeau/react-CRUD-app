@@ -1,0 +1,14 @@
+{
+  "streams": [
+    {
+      "function(){return!window.__REDUX_DEVTOOLS_EXTENSION_LOCKED__": "",
+      "a.dispatch.apply(a,arguments)}": "",
+      "id": 1
+    },
+    {
+      "title": "fd",
+      "description": "fd",
+      "id": 2
+    }
+  ]
+}

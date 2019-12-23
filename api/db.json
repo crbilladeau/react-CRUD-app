@@ -1,0 +1,16 @@
+{
+  "streams": [
+    {
+      "title": "My First Stream",
+      "description": "this is my first stream",
+      "userId": "106234253405649833445",
+      "id": 1
+    },
+    {
+      "title": "Fortnite Stream",
+      "description": "what's up youtubers",
+      "userId": "106234253405649833445",
+      "id": 2
+    }
+  ]
+}
